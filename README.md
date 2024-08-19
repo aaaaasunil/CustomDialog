@@ -8,7 +8,6 @@ Add the JitPack repository to your build file
 
 Step 2. Add the dependency
 
-
-dependencies {
+  dependencies {
 	        implementation 'com.github.aaaaasunil:CustomDialog:1.0.0'
 	}
